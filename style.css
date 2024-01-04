@@ -6,28 +6,28 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.introduction {
+.intro {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.introduction img {
+.intro img {
   width: 100%;
 }
 
-.introduction .show-more {
+.intro .show-more {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
-  .introduction { 
+  .intro { 
     text-align: center;
   }
 }
 
-.centered-main-page-element {
+.wrapper {
   display: block;
   width: 500px;
   margin: 0 auto 0;
